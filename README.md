@@ -8,4 +8,4 @@
 
 개인 연습 공간으로 활용하고 있습니다.
 
-![장고 기본 설정](./images/django_setting.PNG, "사진 연습 삼아 올려봄")
+![장고 기본 설정](./images/django_setting.PNG)
